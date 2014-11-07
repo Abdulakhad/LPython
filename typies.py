@@ -31,3 +31,5 @@ line = line.capitalize()
 print line.split(',')
 dir(line)
 print help(line.capitalize())
+
+print line.upper()
